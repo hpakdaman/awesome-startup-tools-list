@@ -168,6 +168,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - WordPress - https://www.wordpress.org
 - Drupal - https://www.drupal.com
 - Joomla - https://www.joomla.org
+- UnfoldCMS (self-hosted, free Core tier, Laravel 12 + React 19) - https://unfoldcms.com
 
 ### Ecommerce CMS:
 - WooCommerce for WordPress - https://www.woocommerce.com
